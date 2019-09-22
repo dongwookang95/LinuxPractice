@@ -1,0 +1,7 @@
+#show what your computer is executing now
+top
+
+#shows graphical computer usage
+htop
+
+apt-get -> same as brew on mac

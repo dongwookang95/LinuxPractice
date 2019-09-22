@@ -1,0 +1,8 @@
+#get the explanation of the function
+man (function)
+
+#it makes parents directory and make me able to create multiple folder
+mkdir -p
+
+#it shows everything even hidden file
+ls -al

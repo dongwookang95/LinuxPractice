@@ -1,0 +1,8 @@
+#cp
+copy and paste the file where i want to.
+cp cp.txt dir1
+
+#mv
+move with out copy also change the file name
+
+# we can check the files without get in to that folder

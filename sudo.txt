@@ -1,0 +1,13 @@
+sudo(super user do) permission super user root user
+sudo apt-get install git
+
+#erase all the file from root directory
+rm-rf 
+
+#work as sudo -> get permission
+
+#nano is kind of vim
+
+
+#ctrl+6 
+mark set

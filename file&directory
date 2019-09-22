@@ -1,0 +1,26 @@
+#Check where am i
+pwd
+
+#Check what are there
+ls
+
+#detail
+#ls -% , %is parameter
+
+#make dir
+mkdir hello_linux
+
+#make file
+touch empty_file
+
+#go into some directory
+cd dir+(tab)
+
+#go back
+cd ..
+
+#clear
+clear
+
+#remove
+rm -r hello_linux
