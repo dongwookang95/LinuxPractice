@@ -1,0 +1,8 @@
+#Bash vs Zsh
+#Both are basically similar Since the parents are the same(zsh has a bit more of functions)
+
+#zsh
+cd /j/y/w + tap key will automatically add full path
+#bash
+#have to write down all the path
+

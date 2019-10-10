@@ -1,0 +1,16 @@
+SSH??
+Client and server, each has own SSH. 
+
+Client gives the command to server, then the SSH server bring the operation
+to SSH server again. Then it goes back to client. 
+
+SSH @name<IPADDR>
+Then the client becomes server
+And SSH uses usally #22 port. *Web : 80
+
+with 1024, they are importent infrastructure.
+
+Port?
+
+Within the router, there are some posts that specify the destination. 
+

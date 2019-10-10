@@ -1,0 +1,8 @@
+Super(root) user vs user.
+
+sudo [only superuser's operation]
+
+how can i be superuser?
+
+su <- makes me become superuser.
+

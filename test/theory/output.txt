@@ -1,0 +1,9 @@
+#this simbol makes a file
+>
+# it can be called redirection, meaning the output is supposed to be seen on screen(standard output not error).
+ However we redirect it to file.
+#If you want to make a file with error message , then the code should be rm rename2.txt 2>error.log.
+# 2 means standard error
+
+#if this code has error, then it goes to error.log. Otherwise it goes to result.txt
+rm rename2.txt 1>result.txt 2> error.log

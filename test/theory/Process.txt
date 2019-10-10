@@ -1,0 +1,14 @@
+#show process list
+ps
+
+#show everything
+ps aux
+
+#can kill some program
+sudo kill <id>
+
+#
+top
+
+#shows graphically
+htop

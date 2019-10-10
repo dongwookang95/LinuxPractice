@@ -1,0 +1,13 @@
+#super user VS user
+#$ means i am just normal user
+#how to be super user
+su - root
+
+#give permission to access for super user
+sudo passwd -u root
+
+#lock the access
+sudo passwd -l root
+
+#how to add a user
+

@@ -1,0 +1,23 @@
+#how to find a dif of a file that i want to find
+#they don t look up all the dir.
+#They just look up database(mlocate)
+#sudo updatedb <- this will update the mlocate
+locate <filename>
+
+#this look up all the dir
+#So they have tons of method.
+find <filename>
+find ~ .name *.log
+find . -type f -name <filename.php>
+
+#delete a file that is searched.
+find . -type f -name <filename.txt> -exec rm -f {} \;
+
+
+#where the ls is located
+#So basically find the file for the specified command name.
+whereis ls
+
+#Unix or linux has a basic attribute PATH so we can simply use ls
+
+

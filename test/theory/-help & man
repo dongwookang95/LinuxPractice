@@ -6,3 +6,4 @@ mkdir -p
 
 #it shows everything even hidden file
 ls -al
+

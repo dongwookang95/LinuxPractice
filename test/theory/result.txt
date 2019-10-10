@@ -1,0 +1,71 @@
+total 104
+-rw-r--r--    1 dongwookang  staff   178 22 Sep 20:19 -help & man
+drwxr-xr-x   22 dongwookang  staff   704 22 Sep 22:27 .
+drwx------+ 123 dongwookang  staff  3936 22 Sep 15:45 ..
+drwxr-xr-x   12 dongwookang  staff   384 22 Sep 21:29 .git
+-rw-r--r--    1 dongwookang  staff    25 22 Sep 21:21 .wget
+-rw-r--r--    1 dongwookang  staff   177 22 Sep 21:58 GUIvsCLI
+-rw-r--r--    1 dongwookang  staff    16 22 Sep 15:45 README.md
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 22:04 cd
+drwxr-xr-x    4 dongwookang  staff   128 22 Sep 20:27 dir1
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 21:28 dir2
+-rw-r--r--    1 dongwookang  staff   233 22 Sep 15:57 file&directory
+-rw-r--r--    1 dongwookang  staff    70 22 Sep 21:32 git.txt
+-rw-r--r--    1 dongwookang  staff   126 22 Sep 20:44 hello.html
+-rw-r--r--    1 dongwookang  staff   339 22 Sep 22:27 input.txt
+-rw-r--r--    1 dongwookang  staff   425 22 Sep 22:19 output.txt
+-rw-r--r--    1 dongwookang  staff   116 22 Sep 21:20 packagemanager.txt
+-rw-r--r--    1 dongwookang  staff   171 22 Sep 22:09 pipeline.txt
+drwxr-xr-x    3 dongwookang  staff    96 22 Sep 22:06 pipprac
+-rw-r--r--    1 dongwookang  staff     0 22 Sep 22:28 result.txt
+-rw-r--r--    1 dongwookang  staff   165 22 Sep 20:27 searching
+-rw-r--r--    1 dongwookang  staff   199 22 Sep 20:41 sudo.txt
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 22:00 why
+total 120
+-rw-r--r--    1 dongwookang  staff   178 22 Sep 20:19 -help & man
+drwxr-xr-x   23 dongwookang  staff   736 22 Sep 22:30 .
+drwx------+ 123 dongwookang  staff  3936 22 Sep 15:45 ..
+drwxr-xr-x   12 dongwookang  staff   384 22 Sep 21:29 .git
+-rw-r--r--    1 dongwookang  staff    25 22 Sep 21:21 .wget
+-rw-r--r--    1 dongwookang  staff   177 22 Sep 21:58 GUIvsCLI
+-rw-r--r--    1 dongwookang  staff   137 22 Sep 22:30 IORedirection_append.txt
+-rw-r--r--    1 dongwookang  staff    16 22 Sep 15:45 README.md
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 22:04 cd
+drwxr-xr-x    4 dongwookang  staff   128 22 Sep 20:27 dir1
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 21:28 dir2
+-rw-r--r--    1 dongwookang  staff   233 22 Sep 15:57 file&directory
+-rw-r--r--    1 dongwookang  staff    70 22 Sep 21:32 git.txt
+-rw-r--r--    1 dongwookang  staff   126 22 Sep 20:44 hello.html
+-rw-r--r--    1 dongwookang  staff   339 22 Sep 22:27 input.txt
+-rw-r--r--    1 dongwookang  staff   425 22 Sep 22:19 output.txt
+-rw-r--r--    1 dongwookang  staff   116 22 Sep 21:20 packagemanager.txt
+-rw-r--r--    1 dongwookang  staff   171 22 Sep 22:09 pipeline.txt
+drwxr-xr-x    3 dongwookang  staff    96 22 Sep 22:06 pipprac
+-rw-r--r--    1 dongwookang  staff  1387 22 Sep 22:28 result.txt
+-rw-r--r--    1 dongwookang  staff   165 22 Sep 20:27 searching
+-rw-r--r--    1 dongwookang  staff   199 22 Sep 20:41 sudo.txt
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 22:00 why
+total 120
+-rw-r--r--    1 dongwookang  staff   178 22 Sep 20:19 -help & man
+drwxr-xr-x   23 dongwookang  staff   736 22 Sep 22:30 .
+drwx------+ 123 dongwookang  staff  3936 22 Sep 15:45 ..
+drwxr-xr-x   12 dongwookang  staff   384 22 Sep 21:29 .git
+-rw-r--r--    1 dongwookang  staff    25 22 Sep 21:21 .wget
+-rw-r--r--    1 dongwookang  staff   177 22 Sep 21:58 GUIvsCLI
+-rw-r--r--    1 dongwookang  staff   137 22 Sep 22:30 IORedirection_append.txt
+-rw-r--r--    1 dongwookang  staff    16 22 Sep 15:45 README.md
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 22:04 cd
+drwxr-xr-x    4 dongwookang  staff   128 22 Sep 20:27 dir1
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 21:28 dir2
+-rw-r--r--    1 dongwookang  staff   233 22 Sep 15:57 file&directory
+-rw-r--r--    1 dongwookang  staff    70 22 Sep 21:32 git.txt
+-rw-r--r--    1 dongwookang  staff   126 22 Sep 20:44 hello.html
+-rw-r--r--    1 dongwookang  staff   339 22 Sep 22:27 input.txt
+-rw-r--r--    1 dongwookang  staff   425 22 Sep 22:19 output.txt
+-rw-r--r--    1 dongwookang  staff   116 22 Sep 21:20 packagemanager.txt
+-rw-r--r--    1 dongwookang  staff   171 22 Sep 22:09 pipeline.txt
+drwxr-xr-x    3 dongwookang  staff    96 22 Sep 22:06 pipprac
+-rw-r--r--    1 dongwookang  staff  2853 22 Sep 22:31 result.txt
+-rw-r--r--    1 dongwookang  staff   165 22 Sep 20:27 searching
+-rw-r--r--    1 dongwookang  staff   199 22 Sep 20:41 sudo.txt
+drwxr-xr-x    2 dongwookang  staff    64 22 Sep 22:00 why

@@ -1,0 +1,2 @@
+#this makes the clone of the open source from git
+git clone <address>

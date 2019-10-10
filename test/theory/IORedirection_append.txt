@@ -1,0 +1,9 @@
+# This code only override the result everytime. But if you want to add some elements
+ls -al>result.txt
+
+# you can use
+ls -al>>result.txt
+
+# and if you don't want to make any output on screen and file 
+# you can simply implement 
+ls -al /dev/null

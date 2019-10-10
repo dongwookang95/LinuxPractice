@@ -1,0 +1,6 @@
+#Pipeline
+A output of one execution bacomes a input of different execution of input
+
+#grep | work as pipe
+Look up a word that i want to find
+man ls| grep sort | grep file

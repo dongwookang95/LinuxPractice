@@ -1,0 +1,97 @@
+Tux (mascot)
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+
+Tux, as originally drawn as raster image by Larry Ewing in 1996.
+Tux is a penguin character and the official brand character of the Linux kernel.[1] Originally created as an entry to a Linux logo competition, Tux is the most commonly used icon for Linux, although different Linux distributions depict Tux in various styles. The character is used in many other Linux programs and as a general symbol of Linux.
+
+
+Contents
+1	History
+1.1	Origins
+1.2	Tuz 2009
+1.3	Linux for Workgroups 2013
+2	Uses and reception
+2.1	Video games
+2.1.1	Female Tux versions in video games
+2.2	Tux in popular culture
+2.3	Other uses
+3	List of video games with Tux
+4	Gallery
+5	See also
+6	References
+7	External links
+History[edit]
+Origins[edit]
+
+Linus Torvalds's "favourite penguin picture," used as inspiration for Tux.
+The concept of the Linux brand character being a penguin came from Linus Torvalds, the creator of Linux. Tux was created by Larry Ewing in 1996 after an initial suggestion made by Alan Cox[2] and further refined by Linus Torvalds on the Linux kernel mailing list.[3] Torvalds took his inspiration from an image he found on an FTP site,[4] showing a penguin figurine looking strangely like the Creature Comforts characters made by Nick Park. The first person to call the penguin "Tux" was James Hughes, who said that it stood for "(T)orvalds (U)ni(X)".[5] However, tux is also an abbreviation of tuxedo, the outfit which often springs to mind when one sees a penguin.
+
+Tux was originally designed as a submission for a Linux logo contest. Three such competitions took place; Tux won none of them. This is why Tux is formally known as the Linux brand character and not the logo.[6] Tux was created[7] by Larry Ewing using the first publicly released[8] version (0.54) of GIMP, a free software graphics package. It was released by him under the following condition:
+
+Permission to use and/or modify this image is granted provided you acknowledge me lewing@isc.tamu.edu and The GIMP if someone asks.[9]
+
+According to Jeff Ayers, Linus Torvalds had a "fixation for flightless, fat waterfowl" and Torvalds claims to have contracted "penguinitis" after being nibbled by a little penguin on a visit to the National Zoo & Aquarium, Canberra, Australia.[10] joking that the disease "makes you stay awake at nights just thinking about penguins and feeling great love towards them."[11] Torvalds was looking for something fun and sympathetic to associate with Linux, and he felt that a slightly fat penguin sitting down after having eaten a great meal perfectly fit the bill.[12] In 2009, a sign at Canberra zoo said that staff believed the "original Tux" was still resident in the penguin enclosure.[13]
+
+In an interview Linus commented on the penguin bite:
+
+I've been to Australia several times, these days mostly for Linux.Conf.Au. But my first trip—and the one when I was bitten by a ferocious fairy penguin: you really should keep those things locked up!—was in 93 or so, talking about Linux for the Australian Unix Users Group.[14]
+
+Tuz 2009[edit]
+
+Tuz, the Tasmanian devil (2009).
+Tuz, a Tasmanian devil wearing a fake penguin beak, was the brand character of the 2009 linux.conf.au conference. It has been chosen by Linus Torvalds as the logo for version 2.6.29 of the Linux kernel[15] to support the effort to save the Tasmanian devil species from extinction[16] due to the devil facial tumour disease.
+
+The image was designed by Andrew McGown and recreated as an Inkscape SVG by Josh Bush,[17] and released under Creative Commons license CC-BY-SA.[18]
+
+Linux for Workgroups 2013[edit]
+
+Tux logo in the "Linux for Workgroups" release (2013).
+For the Linux 3.11-rc1 release, Linus Torvalds changed the code name from "Unicycling Gorilla" to "Linux for Workgroups" and modified the logo that some systems display when booting to depict a Tux holding a flag with a symbol that is reminiscent of the logo of Windows for Workgroups 3.11, which was released in 1993.[19]
+
+Uses and reception[edit]
+In some Linux distributions, for example Gentoo,[20] Tux greets the user during booting with multi-processor systems displaying multiple images of Tux, one for each processor core.
+
+Video games[edit]
+Tux has taken on a role in the Linux community similar to that which Mario holds in the Nintendo community. The character has been featured in open-source look-alikes of other mainstream games, such as Tux Racer, Extreme Tux Racer, Tux Math Scrabble, TuxWordSmith Tux Math, SuperTux, SuperTuxKart, and Tux Paint. See also List of video games with Tux below.
+
+Female Tux versions in video games[edit]
+Some games that star Tux also include explicitly female penguin characters, allowing the players to play as one of those characters instead of Tux. One such female penguin is Tux's friend "Gown". Gown is variously depicted as being a pink version of Tux (XTux) or as having a somewhat less fat appearance and wearing items of clothing such as a red and white short skirt and a hair bow (e.g. TuxKart and A Quest for Herring).[citation needed]
+
+In SuperTux and SuperTuxKart, there is a different female penguin called "Penny" who is purple and white (SuperTuxKart once had Gown and still has a map called "Gown's Bow"). In the arcade game Tux 2 there is a female penguin called "Trixi", and in FreeCiv the female leader name for the Antarctican civilization is "Tuxette".[citation needed]
+
+Tux in popular culture[edit]
+In a Froot Loops commercial, Tux appears as a squeaky toy, the "secret weapon" to distract a pack of dogs pulling a sled containing the villain.[21]
+In the comics Hellblazer, in issue 234 "Joyride, part 1", a Tux plush toy makes an appearance, set on the side of the road where a little girl was killed in a hit-and-run accident.
+Tux appeared as a character during one arc in the webcomic User Friendly.
+Other uses[edit]
+In 1999, Corel Linux Deluxe included a free Linux Penguin (Tux) toy.[22]
+Since around 2001, there was a Linux-based web server named TUX, which was deprecated around 2006.
+In 2006, Tux had an uncredited use in the Al Gore's Penguin Army video.
+In 2007, Tux was used by the German cutlery producer WMF in the Sealion set for children.[23]
+In 2008, Tux has also been made as a virtual pet under the name Tux Droid by Kysoh for Linux and Windows, has many features including reading tweets from Twitter and checking the weather.
+Since 2009, TuxGuitar, a free guitar tab reading/editing program, features Tux holding a guitar as its brand character.[24]
+In 2010, a prototype of a Tux monument with wings was presented in the Russian city of Tyumen by the local Linux user community.[25][26]
+The avatar of Electronica artist Ephixa is based on Tux (around 2011).
+In April 2016, Tux was adapted to a designer toy called a Gwin and was distributed by October Toys. The toy was redesigned by different artists and sold in short collectible runs through the October Toys website and other collectable vinyl toy sites. October Toys has since ceased operations.
+List of video games with Tux[edit]
+Several computer games, mostly free and open source and/or for Linux, have included Tux, including:
+
+OpenArena: contains a character named "Penguin," who is a man dressed in a costume resembling Tux.
+Pingus: A Lemmings clone in which the lemmings are replaced by penguins in reference to Tux.
+FreedroidRPG: An ARPG featuring Tux as the main protagonist who has to save the world from a robot apocalypse.
+Team Fortress 2: A team-based FPS that has an in-game Tux doll, which was awarded to Linux players from February 14 to March 1, 2013.[27]
+SuperTux: a platform game inspired by Super Mario Bros.
+Tux Kart and SuperTuxKart: Kart racing games similar to the Mario Kart series.
+TuxMathScrabble: Math version of the popular family game starring Tux.
+TuxWordSmith: Scrabble in over 80 languages starring Tux.
+Tux Paint: A drawing program for young children, most likely inspired by Kid Pix.
+Tux, of Math Command: a free software math tutoring arcade game.
+Tux Typing: a free software educational game designed to teach typing.
+Tux Racer/Extreme Tux Racer: A game similar to snowboarding video games, in which the player controls Tux sliding downhill on his belly rather than humans snowboarding down a track.
+FreeCiv: A Civilization clone; the leader name of the Antarctican civilization is "Tux". In addition, the Colossus is an enormous Tux statue, depending on the tile set selected.[citation needed]
+WarMUX: A turn-based strategy game inspired by Worms, featuring many free and open source software brand characters, including Tux.
+Frozen Bubble: A free software puzzle game, featuring Tux-esque penguins.
+LinCity-NG: A free software strategy game that allows you to build a Tux statue.
+There is a Pet (creature who will fight alongside your character) in the online game DragonFable that is a penguin named "Linus". Along with the tagline on the pet, he is shown to be a version of Tux.
+Open Surge, in a test level by Celdecea

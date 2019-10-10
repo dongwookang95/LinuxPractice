@@ -1,0 +1,8 @@
+google.com <- it goes to DNS server. 
+Then it looks up the ip address of google address.
+
+check etc/host file, if there is google.com, then it does not go to DNS
+Since they already know everything.
+So, if hackers modify the host file, then fucked up. 
+
+

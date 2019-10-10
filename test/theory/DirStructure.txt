@@ -1,0 +1,7 @@
+#this is root dir
+/
+
+#can see directory structure
+https://www.geeksforgeeks.org/linux-file-hierarchy-structure/
+
+

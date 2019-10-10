@@ -1,0 +1,9 @@
+Shell vs Kernel
+
+#Hardware>Kernel>Shell>Application 
+#Kernel is hard to use by human.
+#So Shell is an tool to work with Kernel,meaning shell is translate the command that the user putted.
+#Therefore we need to look up different sorts of shells.
+
+
+

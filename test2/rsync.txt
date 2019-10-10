@@ -1,0 +1,7 @@
+rsync makes a copy of whole source directory to destination directory.
+rsync -av shows more details
+
+can be done through network.
+~/rsync/src/ k8805#194.000.000.0:~/rsync/dest
+
+

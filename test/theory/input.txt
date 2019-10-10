@@ -1,0 +1,17 @@
+#this code reads the contents as argument
+cat hello.txt
+
+#this code reads as standard input
+cat < hello.txt
+
+#only few
+head linux.txt
+
+#only one line 
+head -n1 linux.txt
+
+#standard input
+head -n < linux.txt
+
+#if i wanna put the output as file. Furthermore, it process standard input and standard output both
+head -n1 < linux.txt > one.txt

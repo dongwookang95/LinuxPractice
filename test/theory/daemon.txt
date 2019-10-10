@@ -1,0 +1,8 @@
+demon programs are located in /etc/init.d/
+
+
+apachectl start
+apachectl stop
+
+
+idontknow....

@@ -1,0 +1,3 @@
+#commands are stored on storage(bin, ...)
+
+So from storage, the execution is stored in memory and processor execute the command 

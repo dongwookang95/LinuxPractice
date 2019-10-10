@@ -1,0 +1,10 @@
+ssh-keygen
+-> that generates public/private rsa key pair.
+
+cd ~/.ssh
+at the end of authorized_keys, Attach the id_rsa.pub
+
+ssh-copy-id egoing@192.000.0.00 -> that allows other computers to access
+to my computer.
+
+
